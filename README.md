@@ -8,3 +8,5 @@ The system combines Lua scripts for IK control, Python/OpenCV for vision process
 peliaSim’s simulation environment.
 
 need to have opencv , numpy libraries additionally
+
+This project was tested on CoppeliaSim Edu 4.10.0
