@@ -6,3 +6,5 @@ using only what it sees through its camera. This setup resembles two people sync
 motions: one performs a movement, the other follows purely by watching.
 The system combines Lua scripts for IK control, Python/OpenCV for vision processing, and Cop-
 peliaSim’s simulation environment.
+
+need to have opencv , numpy libraries additionally
